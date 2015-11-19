@@ -2,7 +2,7 @@
 // @name           hipchat-edit-last-message
 // @namespace      http://usayplz.com
 // @include        https://*.hipchat.com/chat*
-// @updateURL      
+// @updateURL      https://raw.githubusercontent.com/usayplz/hipchat-edit-last-message/master/hipchat-edit-last-message.js
 // @version        1
 // ==/UserScript==
 
