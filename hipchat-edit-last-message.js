@@ -1,7 +1,10 @@
 // ==UserScript==
 // @name           hipchat-edit-last-message
-// @namespace      http://usayplz.com
 // @include        https://*.hipchat.com/chat*
+// @description    Keys alt+z set message: s/last_message/last_message
+// @copyright      sayplz
+// @author         sayplz
+// @namespace      http://usayplz.com
 // @updateURL      https://raw.githubusercontent.com/usayplz/hipchat-edit-last-message/master/hipchat-edit-last-message.js
 // @version        1
 // ==/UserScript==
